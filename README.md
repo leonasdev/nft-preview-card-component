@@ -24,8 +24,8 @@
 This is a solution to the [NFT card preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Links
-- Solution URL: [Vanilla HTML & CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-sass-bem-9z9BBnn9hC)
-- Live Site URL: [https://qr-code-component-seven-nu.vercel.app/](https://nft-preview-card-component-gilt-three.vercel.app)
+- Solution URL: [NFT Preview Card Component (Sass + BEM) | Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-sass-bem-9z9BBnn9hC)
+- Live Site URL: [https://nft-preview-card-component-gilt-three.vercel.app](https://nft-preview-card-component-gilt-three.vercel.app)
 
 ## My process
 
