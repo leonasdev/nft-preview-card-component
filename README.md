@@ -18,7 +18,7 @@
 #
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/39915562/219544802-5eed17a5-936f-43df-a958-9ad8684fbc82.png">
+  <img src="https://user-images.githubusercontent.com/39915562/219953166-6290bd90-508f-446a-8175-91bc7b72eaac.png">
 </div>
 
 This is a solution to the [NFT card preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
