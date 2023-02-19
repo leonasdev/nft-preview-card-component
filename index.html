@@ -1,33 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
-  <title>Frontend Mentor | NFT preview card component</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet" />
 
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
-</head>
-<body>
+    <title>Frontend Mentor | NFT preview card component</title>
 
-  Equilibrium #3429
-
-  Our Equilibrium collection promotes balance and calm.
-
-  0.041 ETH
-  3 days left
-  
-  Creation of Jules Wyvern
-
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
-  </div>
-</body>
+    <style></style>
+  </head>
+  <body>
+    <main class="card">
+      <div class="figure">
+        <img src="images/image-equilibrium.jpg" alt="equilibrium" />
+      </div>
+      <h1 class="title">Equilibrium #3429</h1>
+      <p class="description">Our Equilibrium collection promotes balance and calm.</p>
+      <div class="status">
+        <div class="status__ethereum">
+          <svg width="11" height="18" xmlns="http://www.w3.org/2000/svg" alt="ethereum icon">
+            <path
+              d="M11 10.216 5.5 18 0 10.216l5.5 3.263 5.5-3.262ZM5.5 0l5.496 9.169L5.5 12.43 0 9.17 5.5 0Z"
+              fill="#00FFF8"
+            />
+          </svg>
+          0.041 ETH
+        </div>
+        <div class="status__remaining">
+          <svg width="17" height="17" xmlns="http://www.w3.org/2000/svg" alt="clock icon">
+            <path
+              d="M8.305 2.007a6.667 6.667 0 1 0 0 13.334 6.667 6.667 0 0 0 0-13.334Zm2.667 7.334H8.305a.667.667 0 0 1-.667-.667V6.007a.667.667 0 0 1 1.334 0v2h2a.667.667 0 0 1 0 1.334Z"
+              fill="#8BACD9"
+            />
+          </svg>
+          3 days left
+        </div>
+      </div>
+      <hr class="separator" />
+      <div class="creator">
+        <img class="creator__image" src="https://avatars.githubusercontent.com/u/39915562" alt="avatar of creator" />
+        <p>
+          Creation of
+          <a href="https://github.com/leonasdev" target="_blank" rel="noopner" class="creator__name">leonasdev</a>
+        </p>
+      </div>
+    </main>
+    <footer class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="nopener">Frontend Mentor</a>. Coded by
+      <a href="https://github.com/leonasdev" target="_blank" rel="noopner">leonasdev</a>.
+    </footer>
+  </body>
 </html>
