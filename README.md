@@ -18,14 +18,14 @@
 #
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/39915562/219544802-5eed17a5-936f-43df-a958-9ad8684fbc82.png">
+  <img src="https://user-images.githubusercontent.com/39915562/219953199-4277dff0-ff6e-4d5f-af1d-9a8899578714.png">
 </div>
 
 This is a solution to the [NFT card preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Links
-- Solution URL: [Vanilla HTML & CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-sass-bem-9z9BBnn9hC)
-- Live Site URL: [https://qr-code-component-seven-nu.vercel.app/](https://nft-preview-card-component-gilt-three.vercel.app)
+- Solution URL: [NFT Preview Card Component (Sass + BEM) | Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-sass-bem-9z9BBnn9hC)
+- Live Site URL: [https://nft-preview-card-component-gilt-three.vercel.app](https://nft-preview-card-component-gilt-three.vercel.app)
 
 ## My process
 
